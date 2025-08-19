@@ -45,13 +45,21 @@ Here are some ideas to get you started:
 ## 📂 Key Projects
 
 ### 1️⃣ National Assembly Information System Maintenance
-- **Period:** 2025.02 ~ Present
+- **Period:** 2025.01 ~ Present
 - **Role:** Full-stack development and backend maintenance
 - **Tech Stack:** Java, JSP, Spring, Oracle, MyBatis
 - **Outcome:** Ensured stable system operation and improved functionality
 
-### 2️⃣ Internal Task Automation Tool
-- **Period:** 2022.09 ~ 2025.01
+### 2️⃣ All-in-One Travel & Planner Web Application
+- **Period:** 2024.11 ~ 2024.12
+- **Role:** Full-stack development with team members
+- **Description:** A web application designed to manage travel tours, personal expenses, and travel planning all in one platform.
+- **Tech Stack:** Java, React, Spring, MyBatis, MariaDB, CSS, JavaScript
+- **Outcome:** Enabled users to plan trips, track expenses, and organize travel schedules efficiently
+- **Project Link:** [View on GitHub](https://github.com/Koreaunnie/team_pj-MyTravel)
+
+### 3️⃣ Internal Task Automation Tool
+- **Period:** 2022.09 ~ 2024.01
 - **Role:** Full-stack development
 - **Tech Stack:** React, Spring Boot, MySQL
 - **Outcome:** Automated repetitive tasks and increased efficiency
