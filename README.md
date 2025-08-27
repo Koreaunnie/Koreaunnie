@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   - Java, JSP, Spring Framework, eGovFrame 기반 MVC 아키텍처 개발 및 운영
   - MyBatis와 Oracle을 활용한 DB 연동 및 쿼리 최적화
   - WebLogic / WebTier 환경에서의 배포 및 운영
-- **프론트엔드 경험**
+- **프론트엔드**
   - React, Vue, JavaScript, HTML/CSS를 통한 UI/UX 개선
 - **보안 및 접근성**
   - 공공시스템 보안 정책과 접근성 기준을 준수하여 개발
