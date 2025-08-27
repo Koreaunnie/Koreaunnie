@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 👋 Hello, I'm July Lim
 
 ### 💻 Full-Stack Developer (Backend-focused) | Frontend Experience Included
-> Java, JSP, Spring Framework, eGovFrame, MyBatis, Oracle, WebLogic, etc.
+> Java, JSP, HTML, CSS, Spring Framework, eGovFrame, MyBatis, Oracle, WebLogic, etc.
 
 ---
 
